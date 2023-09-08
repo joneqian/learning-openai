@@ -1,0 +1,2 @@
+生成三个虚构的书名，包含标题、作者和类别。
+以JSON格式输出，key如下：book_id, title, author, genre。value部分用中文表示。
